@@ -1,4 +1,4 @@
-# Data-Science-Assignment-2# 🎬 Movie Data Analysis (Assignment 2)
+# 🎬 Movie Data Analysis (Assignment 2)
 
 ## 📊 Overview
 This project analyzes a dataset of ~3000 movies to extract useful insights related to profitability, actors, directors, and languages.  
